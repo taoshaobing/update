@@ -1,7 +1,7 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 96,
- "generated": "2026-10-20",
+ "version": 97,
+ "generated": "2026-10-29 19:25:22",
  "dramas": [
   {
    "name": "重启人生",
@@ -1928,6 +1928,63 @@
     {
      "title": "《谷雨》全集在线观看 - 解邦影院",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwMzY1NC5odG1s"
+    }
+   ]
+  },
+  {
+   "name": "空枪",
+   "orig": "",
+   "year": "2026",
+   "episodes": 0,
+   "genre": "犯罪 / 剧情 / 悬疑",
+   "rating": "",
+   "region": "其他",
+   "cast": [
+    "朱一龙",
+    "卫诗雅",
+    "倪大红",
+    "惠英红",
+    "黄觉",
+    "叶童",
+    "林雪",
+    "张兆辉"
+   ],
+   "desc": "韩延执导的犯罪题材电影。故事设定在90年代初一座“遍地黄金”的欲望之城，打工仔万梓强（朱一龙 饰）一心改写命运，与空姐骆嘉苑（卫诗雅 饰）联手作案劫取巨额钱款，在秩序崩坏、犯罪丛生的年代里一步步走向失控。",
+   "links": [
+    {
+     "title": "《空枪粤语》电影全集在线观看_天狼影院（粤语）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI2NTgyLmh0bWw="
+    },
+    {
+     "title": "《空枪》电影全集在线观看_天狼影院（国语中字）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTE5MjYzLmh0bWw="
+    }
+   ]
+  },
+  {
+   "name": "寻人记",
+   "orig": "尋人記",
+   "year": "2021",
+   "episodes": 10,
+   "genre": "纪录片 / 真人秀 / 综艺",
+   "rating": "9.3",
+   "region": "其他",
+   "cast": [
+    "方东昇"
+   ],
+   "desc": "TVB高分纪实节目（豆瓣9.3）。主持人方东昇带领团队展开“地毡式”搜寻，寻回八九十年代新闻报道中的人物，穿越时空见证他们数十年后的人生变迁，被观众称为“港版《人生七年》”。全10集。",
+   "links": [
+    {
+     "title": "《寻人记尋人記》综艺免费在线观看完整版全集高清_星辰影院（粤语）",
+     "url": "b64:aHR0cHM6Ly93d3cuaXpob25nc2h1YW5nLmNvbS92b2RkZXRhaWwvNjM4OTguaHRtbA=="
+    },
+    {
+     "title": "《寻人记II》综艺免费在线观看完整版全集高清_星辰影院（第二季·粤语）",
+     "url": "b64:aHR0cHM6Ly93d3cuaXpob25nc2h1YW5nLmNvbS92b2RkZXRhaWwvNDUyNzguaHRtbA=="
+    },
+    {
+     "title": "《寻人记II》综艺全集在线观看_天狼影院（第二季·粤语）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDYzMDEuaHRtbA=="
     }
    ]
   }
