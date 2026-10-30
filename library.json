@@ -1,7 +1,7 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 97,
- "generated": "2026-10-29 19:25:22",
+ "version": 101,
+ "generated": "2026-10-30",
  "dramas": [
   {
    "name": "重启人生",
@@ -93,12 +93,12 @@
    "desc": "法医解剖医三澄美琴与同事在\"UDI\"研究所解剖非自然死亡遗体，为死者发声、揭开真相。以单元剧串联社会议题，主题曲《Lemon》火遍亚洲。",
    "links": [
     {
-     "title": "非自然死亡（jiebang8.com）",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzcyMTY1Lmh0bWw="
-    },
-    {
      "title": "非自然死亡（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNzczNi5odG1s"
+    },
+    {
+     "title": "非自然死亡（jiebang8.com）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzcyMTY1Lmh0bWw="
     }
    ]
   },
@@ -120,11 +120,11 @@
    "links": [
     {
      "title": "逃避虽可耻但有用（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNzI5MDEuaHRtbA=="
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMzI5NC5odG1s"
     },
     {
      "title": "逃避虽可耻但有用（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMzI5NC5odG1s"
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNzI5MDEuaHRtbA=="
     }
    ]
   },
@@ -222,12 +222,12 @@
    "desc": "赤名莉香与永尾完治在东京的都市爱情，\"完治！\"的呼唤与莉香标志性的笑容成为一代人的记忆。日本纯爱剧巅峰之作。",
    "links": [
     {
-     "title": "东京爱情故事（jiebang8.com）",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzcyMzU3Lmh0bWw="
-    },
-    {
      "title": "东京爱情故事（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDAxOC5odG1s"
+    },
+    {
+     "title": "东京爱情故事（jiebang8.com）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzcyMzU3Lmh0bWw="
     },
     {
      "title": "东京爱情故事（jiujusz.com）",
@@ -252,12 +252,12 @@
    "desc": "天才外科医生财前五郎为登顶医学界权力巅峰不择手段，与坚持理想的内科医生里见修二形成对照。医疗剧史上无法逾越的丰碑。",
    "links": [
     {
-     "title": "白色巨塔（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMzI5My5odG1s"
-    },
-    {
      "title": "白色巨塔（gdkebang.com）",
      "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzc4NDIzLmh0bWw="
+    },
+    {
+     "title": "白色巨塔（jiujusz.com）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMzI5My5odG1s"
     }
    ]
   },
@@ -280,10 +280,6 @@
     {
      "title": "深夜食堂（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjAzNDEuaHRtbA=="
-    },
-    {
-     "title": "深夜食堂（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDg0MzMuaHRtbA=="
     },
     {
      "title": "深夜食堂（jiujusz.com）",
@@ -354,11 +350,11 @@
    "links": [
     {
      "title": "恋爱世纪（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjMwODMuaHRtbA=="
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMjA3NTEuaHRtbA=="
     },
     {
      "title": "恋爱世纪（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMjA3NTEuaHRtbA=="
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjMwODMuaHRtbA=="
     },
     {
      "title": "恋爱世纪（jiujusz.com）",
@@ -383,12 +379,12 @@
    "desc": "单身多年的电视台制作人吉野千明搬到镰仓，与中年丧妻的当地政府职员长仓和平一家成为邻居，中年人的细腻爱情与生活哲学。2025年推出续篇豆瓣9.0。",
    "links": [
     {
-     "title": "倒数第二次恋爱续篇（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODQxNTAuaHRtbA=="
-    },
-    {
      "title": "倒数第二次恋爱（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODYwNi5odG1s"
+    },
+    {
+     "title": "倒数第二次恋爱续篇（天狼影院）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODQxNTAuaHRtbA=="
     }
    ]
   },
@@ -410,15 +406,15 @@
    "links": [
     {
      "title": "我的事说来话长（jiujusz.com）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNzMzMS5odG1s"
+    },
+    {
+     "title": "我的事说来话长（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjE1ODYuaHRtbA=="
     },
     {
      "title": "我的事说来话长（jiebang8.com）",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzcyNTc2Lmh0bWw="
-    },
-    {
-     "title": "我的事说来话长（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNzMzMS5odG1s"
     }
    ]
   },
@@ -462,15 +458,11 @@
    "links": [
     {
      "title": "东京大饭店（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODAzNC5odG1s"
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMzYyNjAuaHRtbA=="
     },
     {
      "title": "东京大饭店（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDQ0Mi5odG1s"
-    },
-    {
-     "title": "东京大饭店（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMzYyNjAuaHRtbA=="
     }
    ]
   },
@@ -491,16 +483,16 @@
    "desc": "正义刑警望月彩子与高智商杀人犯日高阳斗意外灵魂互换，刑警被迫以杀人犯身份生活，两人在黑白之间极限拉扯。绫濑遥与高桥一生的演技名场面不断。",
    "links": [
     {
-     "title": "天国与地狱（jiebang8.com）",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzcyMzE5Lmh0bWw="
+     "title": "天国与地狱（jiujusz.com）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNzUzNy5odG1s"
     },
     {
      "title": "天国与地狱（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODgwMTUuaHRtbA=="
     },
     {
-     "title": "天国与地狱（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNzUzNy5odG1s"
+     "title": "天国与地狱（jiebang8.com）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzcyMzE5Lmh0bWw="
     }
    ]
   },
@@ -583,16 +575,16 @@
    "desc": "在东京受挫的天野秋回到家乡北三陆，跟随祖母成为海女，后又踏上偶像之路。NHK晨间剧史上口碑最高的国民神剧。",
    "links": [
     {
-     "title": "海女（jiebang8.com）",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzU2NjU3Lmh0bWw="
-    },
-    {
      "title": "海女（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNTA3NjQuaHRtbA=="
     },
     {
      "title": "海女（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDM0MTMuaHRtbA=="
+    },
+    {
+     "title": "海女（jiebang8.com）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzU2NjU3Lmh0bWw="
     }
    ]
   },
@@ -630,12 +622,12 @@
    "desc": "无所事事的青年有栖良平与同伴误入空无一人的东京，被迫参与用生命做赌注的\"游戏\"求生。Netflix 大热生存题材日剧，2025年推出最终季。",
    "links": [
     {
-     "title": "弥留之国的爱丽丝（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTA0MjkyLmh0bWw="
-    },
-    {
      "title": "弥留之国的爱丽丝 第二季（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODU5Mi5odG1s"
+    },
+    {
+     "title": "弥留之国的爱丽丝（天狼影院）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTA0MjkyLmh0bWw="
     }
    ]
   },
@@ -677,10 +669,6 @@
     {
      "title": "宛如阿修罗（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMzU1ODEuaHRtbA=="
-    },
-    {
-     "title": "宛如阿修罗（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODUxMTcuaHRtbA=="
     }
    ]
   },
@@ -801,11 +789,11 @@
     },
     {
      "title": "琅琊榜",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzU2OTUxLmh0bWw="
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDMwMDUuaHRtbA=="
     },
     {
      "title": "琅琊榜",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDMwMDUuaHRtbA=="
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzU2OTUxLmh0bWw="
     }
    ]
   },
@@ -831,20 +819,16 @@
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI2MTIuaHRtbA=="
     },
     {
+     "title": "绝命毒师第四季（天狼影院）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI0OTIuaHRtbA=="
+    },
+    {
      "title": "绝命毒师第三季（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI4NDYuaHRtbA=="
     },
     {
      "title": "绝命毒师第二季（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI4NDIuaHRtbA=="
-    },
-    {
-     "title": "绝命毒师第一季（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTMwMzEuaHRtbA=="
-    },
-    {
-     "title": "绝命毒师第四季（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI0OTIuaHRtbA=="
     }
    ]
   },
@@ -912,15 +896,11 @@
    "links": [
     {
      "title": "猛鬼佛跳墙（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODEwMTYuaHRtbA=="
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjU4NTYuaHRtbA=="
     },
     {
      "title": "猛鬼佛跳墙（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODEwMzguaHRtbA=="
-    },
-    {
-     "title": "猛鬼佛跳墙（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjU4NTYuaHRtbA=="
     }
    ]
   },
@@ -942,12 +922,12 @@
    "desc": "《富贵逼人》系列骠叔肥姐再度搭档的惊悚喜剧。凌浩西（董骠 饰）一家四口因煤气中毒不幸离世，但移民加拿大之心不死，获阴间特许暂时还魂赚钱筹墓资。一家人当线人、做按摩师、当舞女各显神通，却让蒙在鼓里的女儿男友包有路（吴大维 饰）被警方怀疑是杀人凶手……黎大炜执导，粤语原声。",
    "links": [
     {
-     "title": "富贵开心鬼（粤语）全集免费观看 - 天狼影院",
-     "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC83OTMzMi5odG1s"
-    },
-    {
      "title": "富贵开心鬼（粤语）免费在线观看 - 极速影视",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzY2NDY5Lmh0bWw="
+    },
+    {
+     "title": "富贵开心鬼（粤语）全集免费观看 - 天狼影院",
+     "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC83OTMzMi5odG1s"
     }
    ]
   },
@@ -989,16 +969,16 @@
    "desc": "正午阳光出品的现实题材都市剧，改编自纪静蓉小说《我不是废柴》。当了五年全职主妇的沈琳（殷桃 饰）遭遇丈夫那伟（王骁 饰）失业，夫妻双双无业、二胎房贷压顶，她摆摊卖卤货实现再就业；名校毕业的公务员沈磊（秦俊杰 饰）因安于现状被妻子离婚，辞职隐居终南山；百万年薪程序员那隽（张哲华 饰）因高强度工作患上惊恐症。三对30、40岁都市男女被生活围追堵截，努力自救、寻找人生方向。",
    "links": [
     {
+     "title": "凡人歌 全37集在线观看（多线路） - GimyTube",
+     "url": "b64:aHR0cHM6Ly9naW15LnR1YmUvcmVzLzI5OTc2MC5odG1s"
+    },
+    {
      "title": "《凡人歌》电视剧全集在线观看 - 天狼影院",
      "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC85OTczMy5odG1s"
     },
     {
      "title": "《凡人歌》全集免费观看高清完整版 - 极速影视",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEzMTA3Lmh0bWw="
-    },
-    {
-     "title": "凡人歌 全37集在线观看（多线路） - GimyTube",
-     "url": "b64:aHR0cHM6Ly9naW15LnR1YmUvcmVzLzI5OTc2MC5odG1s"
     }
    ]
   },
@@ -1074,16 +1054,16 @@
    "desc": "国际名模曾洁儿被控虐女，社会金字塔顶层的钟氏家族用尽权力自保。以林凉水（黄子华 饰）为代表的律师们在权贵与名媛的角力中伸张正义。2023 年港片口碑之作，粤语原声版。",
    "links": [
     {
-     "title": "《毒舌大狀》电影HD免费播放完整版 - 星辰影院",
-     "url": "b64:aHR0cHM6Ly93d3cud2FuamlhaGUubmV0L3ZvZGRldGFpbC8xMjAwMDUuaHRtbA=="
+     "title": "《毒舌律师 毒舌大狀粤语》HD云播免费观看 - 天狼影院",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODI0NTAuaHRtbA=="
     },
     {
      "title": "《毒舌律师粤语》未删减高清云播免费观看 - 极速影视",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzg4Mzk1Lmh0bWw="
     },
     {
-     "title": "《毒舌律师 毒舌大狀粤语》HD云播免费观看 - 天狼影院",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODI0NTAuaHRtbA=="
+     "title": "《毒舌大狀》电影HD免费播放完整版 - 星辰影院",
+     "url": "b64:aHR0cHM6Ly93d3cud2FuamlhaGUubmV0L3ZvZGRldGFpbC8xMjAwMDUuaHRtbA=="
     }
    ]
   },
@@ -1115,16 +1095,16 @@
      "url": "b64:aHR0cHM6Ly93d3cubGFueXV6eC5jb20vdm9kZGV0YWlsLzk5ODYxLmh0bWw="
     },
     {
-     "title": "《夜王》HD高清云播粤语免费观看 - 极速影视",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzk5ODYxLmh0bWw="
-    },
-    {
      "title": "《夜王》电影HD云播粤语免费观看 - 看剧社",
      "url": "b64:aHR0cHM6Ly9tLnp5emNsb3VkLmNvbS92b2RkZXRhaWwvMTAyMDEzLmh0bWw="
     },
     {
      "title": "《夜王》电影HD云播粤语免费观看 - 天狼影院",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTE0NTgzLmh0bWw="
+    },
+    {
+     "title": "《夜王》HD高清云播粤语免费观看 - 极速影视",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzk5ODYxLmh0bWw="
     }
    ]
   },
@@ -1146,12 +1126,12 @@
    "desc": "三个孩子在景区游玩时无意拍下一起谋杀案，从此被卷入命运的漩涡。现象级悬疑短剧，\"一起爬山吗\"成为年度热梗，秦昊演技封神。",
    "links": [
     {
-     "title": "隐秘的角落（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODQ0MC5odG1s"
-    },
-    {
      "title": "隐秘的角落（天狼移动）",
      "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC84NDQwLmh0bWw="
+    },
+    {
+     "title": "隐秘的角落（天狼影院）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODQ0MC5odG1s"
     }
    ]
   },
@@ -1190,10 +1170,6 @@
     {
      "title": "野狗骨头（gdkebang.com）",
      "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzEwNTIxMS5odG1s"
-    },
-    {
-     "title": "野狗骨头（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTE2ODY1Lmh0bWw="
     }
    ]
   },
@@ -1214,12 +1190,12 @@
    "desc": "严浩执导的经典香港文艺片。阔别多年的阿珊从广州返回故乡潮汕处理祖母丧事，与昔日青梅竹马的阿珍、阿强重逢，在田园风光与都市喧嚣的对照中重温亲情与旧情，也各自看清人生的际遇。斯琴高娃凭此片获第4届香港电影金像奖最佳女主角，影片荣获最佳影片、最佳编剧等多项大奖，是香港电影史上里程碑式的乡土题材文艺佳作。",
    "links": [
     {
-     "title": "似水流年（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODM1ODYuaHRtbA=="
-    },
-    {
      "title": "似水流年（gdkebang.com）",
      "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzM4MzMyLmh0bWw="
+    },
+    {
+     "title": "似水流年（jiujusz.com）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODM1ODYuaHRtbA=="
     },
     {
      "title": "似水流年（jiebang8.com）",
@@ -1347,12 +1323,12 @@
    "desc": "宫崎骏探讨人与自然冲突的史诗级动画。少年阿席达卡被诅咒缠身，远行寻找解除诅咒之法，卷入守护森林的幽灵公主珊与人类铁镇之间的争斗。画面宏大、主题深刻，被誉为宫崎骏最具野心的作品。",
    "links": [
     {
-     "title": "《幽灵公主》电影全集在线观看 - 天狼影院",
-     "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC83OTE2Ny5odG1s"
-    },
-    {
      "title": "《幽灵公主》日语全集免费观看在线高清完整版_动漫电影_极速影视",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzE4NDQ0Lmh0bWw="
+    },
+    {
+     "title": "《幽灵公主》电影全集在线观看 - 天狼影院",
+     "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC83OTE2Ny5odG1s"
     }
    ]
   },
@@ -1374,12 +1350,12 @@
    "desc": "宫崎骏以手绘水彩绘制的治愈动画。住在海崖小屋的5岁男孩宗介，救下一只想要变成人形的小金鱼波妞。波妞为了和宗介在一起，决定变成人，引发一连串纯真又奇幻的冒险。全手绘的海洋世界美轮美奂。",
    "links": [
     {
-     "title": "《崖上的波妞》电影全集在线观看 - 天狼影院",
-     "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC83NjkyOC5odG1s"
-    },
-    {
      "title": "《崖上的波妞》日语全集免费观看在线高清完整版_动漫电影_极速影视",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzIzMDM4Lmh0bWw="
+    },
+    {
+     "title": "《崖上的波妞》电影全集在线观看 - 天狼影院",
+     "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC83NjkyOC5odG1s"
     }
    ]
   },
@@ -1406,12 +1382,12 @@
      "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzExNDI3NC5odG1s"
     },
     {
-     "title": "我不是大师 - 极速影视",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwNTI1Ny5odG1s"
-    },
-    {
      "title": "我不是大师 - 柚子影视",
      "url": "b64:aHR0cHM6Ly93d3cubGFueXV6eC5jb20vdm9kZGV0YWlsLzEwNTI1Ni5odG1s"
+    },
+    {
+     "title": "我不是大师 - 极速影视",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwNTI1Ny5odG1s"
     }
    ]
   },
@@ -1469,12 +1445,12 @@
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTE0ODA5Lmh0bWw="
     },
     {
-     "title": "寡妇湾 - 极速影视",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwMDA5Mi5odG1s"
-    },
-    {
      "title": "寡妇湾 - 柚子影视",
      "url": "b64:aHR0cHM6Ly93d3cubGFueXV6eC5jb20vdm9kZGV0YWlsLzEwMDA5Mi5odG1s"
+    },
+    {
+     "title": "寡妇湾 - 极速影视",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwMDA5Mi5odG1s"
     }
    ]
   },
@@ -1704,15 +1680,11 @@
    "links": [
     {
      "title": "百花杀（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTE3MDk0Lmh0bWw="
-    },
-    {
-     "title": "百花杀（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMzc5NjUuaHRtbA=="
-    },
-    {
-     "title": "百花杀（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTEwNjk0Lmh0bWw="
+    },
+    {
+     "title": "百花杀（天狼影院）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTE3MDk0Lmh0bWw="
     }
    ]
   },
@@ -1731,16 +1703,12 @@
    "desc": "权谋虐恋剧。遗孤女主与隐忍定王相互扶持复仇，改编自《盛世嫡妃》，破碎感戏份出圈。",
    "links": [
     {
-     "title": "莫离（极速影视）",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwMDg0Mi5odG1s"
-    },
-    {
      "title": "莫离（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTE1NTQ2Lmh0bWw="
     },
     {
-     "title": "莫离（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDcxODcuaHRtbA=="
+     "title": "莫离（极速影视）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwMDg0Mi5odG1s"
     }
    ]
   },
@@ -1786,15 +1754,15 @@
    "links": [
     {
      "title": "富贵逼人（天狼影院）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTEzNDc3Lmh0bWw="
+    },
+    {
+     "title": "富贵逼人（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTAzMTAzLmh0bWw="
     },
     {
      "title": "富贵逼人（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvODQ2ODEuaHRtbA=="
-    },
-    {
-     "title": "富贵逼人（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTEzNDc3Lmh0bWw="
     }
    ]
   },
@@ -1821,20 +1789,20 @@
    "desc": "改编自灵希同名小说的民国情感剧，鞠觉亮、国浩、王辉执导，丞磊、徐若晗领衔主演，2026年10月12日湖南卫视、芒果TV播出，全剧共40集。民国军阀割据的乱世，女学生叶平君（徐若晗 饰）为筹措母亲医药费在湘西会馆谋职，入职当日便卷入针对虞家五少虞昶轩（丞磊 饰）的刺杀风波，被诬为疑犯的她为自保与\"混世魔王\"虞昶轩定下十日之约抓真凶。虞昶轩借追求为幌暗中布局，两人以契约夫妻相绑，历经身世变故与失忆离散，多年后重逢携手投身救国事业。",
    "links": [
     {
-     "title": "《玉簟秋》电视剧汉语普通话高清观看免费在线完整版全集 - 大猫影院",
-     "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzEyMTUwOS5odG1s"
-    },
-    {
      "title": "《玉簟秋》电视剧汉语普通话免费在线完整版全集观看 - 柚子影视",
      "url": "b64:aHR0cHM6Ly9sYW55dXp4LmNvbS92b2RkZXRhaWwvMTExMjc0Lmh0bWw="
     },
     {
-     "title": "《玉簟秋》电视剧全集在线观看 - 天狼影院",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTIwNTkxLmh0bWw="
+     "title": "《玉簟秋》电视剧汉语普通话高清观看免费在线完整版全集 - 大猫影院",
+     "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzEyMTUwOS5odG1s"
     },
     {
      "title": "《玉簟秋》汉语普通话全集免费观看在线高清完整版_国产剧 - 极速影视",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzExMTI3NC5odG1s"
+    },
+    {
+     "title": "《玉簟秋》电视剧全集在线观看 - 天狼影院",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTIwNTkxLmh0bWw="
     }
    ]
   },
@@ -1860,12 +1828,12 @@
      "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzU0Lmh0bWw="
     },
     {
-     "title": "《反人类暴行》全集在线观看 - 天狼影院",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTA2OTA0Lmh0bWw="
-    },
-    {
      "title": "《反人类暴行》全集在线观看 - 解邦影院",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzkxNjkxLmh0bWw="
+    },
+    {
+     "title": "《反人类暴行》全集在线观看 - 天狼影院",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTA2OTA0Lmh0bWw="
     }
    ]
   },
@@ -1923,11 +1891,11 @@
     },
     {
      "title": "《谷雨》全集在线观看 - 解邦影院",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzQ5Mjg0Lmh0bWw="
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwMzY1NC5odG1s"
     },
     {
      "title": "《谷雨》全集在线观看 - 解邦影院",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwMzY1NC5odG1s"
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzQ5Mjg0Lmh0bWw="
     }
    ]
   },
@@ -1952,12 +1920,12 @@
    "desc": "韩延执导的犯罪题材电影。故事设定在90年代初一座“遍地黄金”的欲望之城，打工仔万梓强（朱一龙 饰）一心改写命运，与空姐骆嘉苑（卫诗雅 饰）联手作案劫取巨额钱款，在秩序崩坏、犯罪丛生的年代里一步步走向失控。",
    "links": [
     {
-     "title": "《空枪粤语》电影全集在线观看_天狼影院（粤语）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI2NTgyLmh0bWw="
-    },
-    {
      "title": "《空枪》电影全集在线观看_天狼影院（国语中字）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTE5MjYzLmh0bWw="
+    },
+    {
+     "title": "《空枪粤语》电影全集在线观看_天狼影院（粤语）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI2NTgyLmh0bWw="
     }
    ]
   },
@@ -1975,16 +1943,84 @@
    "desc": "TVB高分纪实节目（豆瓣9.3）。主持人方东昇带领团队展开“地毡式”搜寻，寻回八九十年代新闻报道中的人物，穿越时空见证他们数十年后的人生变迁，被观众称为“港版《人生七年》”。全10集。",
    "links": [
     {
-     "title": "《寻人记尋人記》综艺免费在线观看完整版全集高清_星辰影院（粤语）",
-     "url": "b64:aHR0cHM6Ly93d3cuaXpob25nc2h1YW5nLmNvbS92b2RkZXRhaWwvNjM4OTguaHRtbA=="
-    },
-    {
      "title": "《寻人记II》综艺免费在线观看完整版全集高清_星辰影院（第二季·粤语）",
      "url": "b64:aHR0cHM6Ly93d3cuaXpob25nc2h1YW5nLmNvbS92b2RkZXRhaWwvNDUyNzguaHRtbA=="
     },
     {
      "title": "《寻人记II》综艺全集在线观看_天狼影院（第二季·粤语）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDYzMDEuaHRtbA=="
+    },
+    {
+     "title": "《寻人记尋人記》综艺免费在线观看完整版全集高清_星辰影院（粤语）",
+     "url": "b64:aHR0cHM6Ly93d3cuaXpob25nc2h1YW5nLmNvbS92b2RkZXRhaWwvNjM4OTguaHRtbA=="
+    }
+   ]
+  },
+  {
+   "name": "尚公主",
+   "orig": "尚公主",
+   "year": "2026",
+   "episodes": 9,
+   "genre": "国剧 / 古装·都市·权谋",
+   "rating": "",
+   "region": "国剧",
+   "cast": [
+    "余皑磊",
+    "&nbsp",
+    "杨子骅",
+    "&nbsp",
+    "纪凌尘",
+    "&nbsp",
+    "胡杏儿",
+    "&nbsp"
+   ],
+   "desc": "不甘命运的天家嫡女暮晚摇与智谋无双的寒门才俊言尚在岭南相逢、于盛安入局，携手步步破局，共筑清平天下的故事。一群少年各怀心事、各有所求，在乱世惊涛中搅动风云，奔赴 详情 立即播放 &nbsp;&nbsp; 收藏 云播资源 第01集 第02集 第03集 第04集 第05集 第06集 第07集 第08集 第09集 第10集 第11集 第12集 第13集 第14集 第15集 第16集 第17集 第18集 ",
+   "links": [
+    {
+     "title": "《尚公主》免费观看完整版全集_国产剧_无（百度搜索·www.dianneidna.com）",
+     "url": "b64:aHR0cHM6Ly93d3cuZGlhbm5laWRuYS5jb20vdm9kZGV0YWlsLzEyNzMwNS5odG1s"
+    }
+   ]
+  },
+  {
+   "name": "嫁金钗",
+   "orig": "嫁金钗",
+   "year": "2026",
+   "episodes": 26,
+   "genre": "国剧 / 古装·都市·权谋",
+   "rating": "",
+   "region": "国剧",
+   "cast": [
+    "田曦薇",
+    "阎桉"
+   ],
+   "desc": "阿丑原是街上倒夜香的低贱少女，人人皆可践踏欺凌，只因一张酷似侯府千金魏娆的面容，意外成为国公府世子陆濯的冲喜新娘。阿丑野心勃勃，一心借机上位，然而濒死的新婚丈夫忽然苏醒，鸠占鹊巢引来连绵灾祸。魏娆（君黛）恨她鸠占鹊巢，急欲除之后快；陆濯以她为蛇蝎妇人，百般提防谋算。国公府明面一团和气，实则陷阱重重、步步杀机。阿丑稳扎稳打精心谋划，手段百出获得丈夫痴爱，更查出了自己身世的秘密，与至亲最终团圆，从底层",
+   "links": [
+    {
+     "title": "《嫁金钗》电视剧汉语普通话高清全集免费在（百度搜索·qzsiasun.com）",
+     "url": "b64:aHR0cHM6Ly9xenNpYXN1bi5jb20vdm9kZGV0YWlsLzEwNzM0NS5odG1s"
+    }
+   ]
+  },
+  {
+   "name": "小城良方",
+   "orig": "小城良方",
+   "year": "2026",
+   "episodes": 40,
+   "genre": "国剧 / 都市医疗",
+   "rating": "",
+   "region": "国剧",
+   "cast": [
+    "肖战",
+    "倪大红",
+    "姜妍",
+    "丁嘉丽"
+   ],
+   "desc": "该剧讲述了当天才医生刘铮亮（肖战饰）遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。 该剧改编自刘三叔所著小说《飞刀》。 &nbsp; 推荐视频 国产剧 全40集+番外花絮 莲花楼 成毅&nbsp;曾舜晞&nbsp;肖顺尧&nbsp;陈都灵&nbsp;王鹤润&nbsp;陈意涵&nbs",
+   "links": [
+    {
+     "title": "小城良方（极速影视）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzExMTg3OC5odG1s"
     }
    ]
   }
