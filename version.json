@@ -1,0 +1,13 @@
+{
+ "versionCode": 36,
+ "versionName": "2.27.0",
+ "notes": "新增在线升级：打开 App 自动检测新版本并提示下载安装；收藏此页输入框修复；搜片需求双保险",
+ "size": 24371247,
+ "urls": [
+  "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/shaobing.apk",
+  "https://ghproxy.net/https://raw.githubusercontent.com/taoshaobing/update/main/shaobing.apk",
+  "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/shaobing.apk",
+  "https://raw.githubusercontent.com/taoshaobing/update/main/shaobing.apk"
+ ],
+ "published": "2026-10-31 15:42"
+}
