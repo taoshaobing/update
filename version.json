@@ -1,13 +1,13 @@
 {
- "versionCode": 36,
- "versionName": "2.27.0",
- "notes": "新增在线升级：打开 App 自动检测新版本并提示下载安装；收藏此页输入框修复；搜片需求双保险",
- "size": 24371247,
+ "versionCode": 37,
+ "versionName": "2.28.0",
+ "notes": "修复含中文路径的片源无法播放（如酷客影院《孤独的美食家 第四季》）；剧库更新至 v105（新增《孤独的美食家》第1~8季/第10季）",
+ "size": 24371983,
  "urls": [
   "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/shaobing.apk",
   "https://ghproxy.net/https://raw.githubusercontent.com/taoshaobing/update/main/shaobing.apk",
   "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/shaobing.apk",
   "https://raw.githubusercontent.com/taoshaobing/update/main/shaobing.apk"
  ],
- "published": "2026-10-31 15:42"
+ "published": "2026-11-06 11:49"
 }
