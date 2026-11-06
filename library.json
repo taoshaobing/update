@@ -1,6 +1,6 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 105,
+ "version": 106,
  "generated": "2026-10-30",
  "dramas": [
   {
@@ -222,6 +222,36 @@
     {
      "title": "隐秘的角落（天狼移动）",
      "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC84NDQwLmh0bWw="
+    }
+   ]
+  },
+  {
+   "name": "沉默的真相",
+   "orig": "The Long Night",
+   "year": "2020",
+   "episodes": 12,
+   "genre": "悬疑 / 犯罪 / 剧情",
+   "rating": "9.0",
+   "region": "国剧",
+   "cast": [
+    "廖凡",
+    "白宇",
+    "谭卓",
+    "宁理"
+   ],
+   "desc": "2020 爱奇艺「迷雾剧场」悬疑剧。检察官江阳为查明一桩十年前的旧案真相，与刑警严良、法医陈明章等人接力追凶，用一场精心设计的「地铁抛尸」把尘封的黑幕掀开。改编自紫金陈小说《长夜难明》，豆瓣 9.0。全 12 集。",
+   "links": [
+    {
+     "title": "（天狼影院·国语）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNDA3MTguaHRtbA=="
+    },
+    {
+     "title": "（极速影视·国语）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzU4NjkyLmh0bWw="
+    },
+    {
+     "title": "（酷客影院·国语）",
+     "url": "b64:aHR0cHM6Ly93d3cuemp5b25nYW8uY29tL3ZvZGRldGFpbC8xNTMxMS5odG1s"
     }
    ]
   },
