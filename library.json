@@ -1,7 +1,7 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 106,
- "generated": "2026-10-30",
+ "version": 107,
+ "generated": "2026-11-10",
  "dramas": [
   {
    "name": "我们的留学生活——在日本的日子",
@@ -2303,6 +2303,39 @@
     {
      "title": "苦尽柑来遇见你（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNTkyMDYuaHRtbA=="
+    }
+   ]
+  },
+  {
+   "name": "三悦有了新工作",
+   "orig": "",
+   "year": "2022",
+   "episodes": 40,
+   "genre": "剧情 / 治愈",
+   "rating": "8.0",
+   "region": "国剧",
+   "cast": [
+    "周依然",
+    "杨新鸣",
+    "鄂靖文",
+    "梁靖康",
+    "刘钧",
+    "田雷",
+    "郭柯宇"
+   ],
+   "desc": "从95后年轻人的视角出发，讲述阴差阳错来到殡仪馆担任化妆师的赵三悦（周依然 饰），从新入行时对这份职业怀抱着未知，到感悟生死、用心学习遗体化妆，并在见证往生者生前身后的过程中折射众生群像。以温暖治愈的方式呈现遗体化妆师们平凡瞬间的高光，探讨离别与人生的意义。",
+   "links": [
+    {
+     "title": "三悦有了新工作（天狼影院·国语1080P）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjM0NzcuaHRtbA=="
+    },
+    {
+     "title": "三悦有了新工作（极速影视·国语720P）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzQ0NTA2Lmh0bWw="
+    },
+    {
+     "title": "三悦有了新工作（策驰影院·国语）",
+     "url": "b64:aHR0cHM6Ly93d3cubm9uZ3lvdWtlamkuY29tL3ZvZGRldGFpbC80Nzc5Ni5odG1s"
     }
    ]
   }
