@@ -1,6 +1,6 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 110,
+ "version": 111,
  "generated": "2026-11-11",
  "dramas": [
   {
@@ -77,17 +77,28 @@
   {
    "name": "兰香如故",
    "orig": "",
-   "year": "",
-   "episodes": 0,
-   "genre": "国剧 / 剧情",
+   "year": "2026",
+   "episodes": 47,
+   "genre": "国剧 / 古装 / 剧情 / 爱情",
    "rating": "",
    "region": "国剧",
-   "cast": [],
-   "desc": "（由搜片需求探寻收录，可点「百度搜索全集」查看在线观看）",
+   "cast": [
+    "谭松韵",
+    "刘学义",
+    "牛骏峰",
+    "李梦",
+    "郑合惠子",
+    "郭柯宇"
+   ],
+   "desc": "2026 年古装宅斗剧，改编自禾晏山小说《兰香缘》，桐华、箫楼编剧。大学士府千金沈嘉兰因家族被诬谋逆、惨遭灭门，得救后顶替亡故丫鬟「许兰香」的身份潜入林府为婢，在深宅中步步为营查明沈家冤案，并与昔日未婚夫林锦岐重逢。CCTV-8 与腾讯视频同步播出，全 47 集。",
    "links": [
     {
-     "title": "兰香如故（极速影视）",
+     "title": "（极速影视·国语）",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwNDgxNi5odG1s"
+    },
+    {
+     "title": "（策驰影院·国语）",
+     "url": "b64:aHR0cHM6Ly93d3cubm9uZ3lvdWtlamkuY29tL3ZvZGRldGFpbC8xMDEyNzUuaHRtbA=="
     }
    ]
   },
