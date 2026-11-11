@@ -1,7 +1,7 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 109,
- "generated": "2026-11-11 20:33:38",
+ "version": 110,
+ "generated": "2026-11-11",
  "dramas": [
   {
    "name": "我们的留学生活——在日本的日子",
@@ -690,16 +690,24 @@
    "desc": "以严谨的历史观铺展叙事，还原遵义会议、飞夺泸定桥等关键历史场景，摒弃刻板说教，以富有细节与张力的镜头再现长征路上的抉择与抗争。央视一套播出，收视持续破3，豆瓣评分8.6，是2026年下半年口碑与收视双丰收的重大革命历史题材力作。",
    "links": [
     {
-     "title": "伟大的长征（gdkebang）",
-     "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzEyMDEzMS5odG1s"
+     "title": "伟大的长征（天狼影院·国语 全60集）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTIwNDU3Lmh0bWw="
     },
     {
-     "title": "伟大的长征（极速影视）",
+     "title": "伟大的长征（极速影视·国语 全60集）",
      "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzExMTA5OC5odG1s"
     },
     {
-     "title": "伟大的长征（天狼影院）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTIwNDU3Lmh0bWw="
+     "title": "伟大的长征（gdkebang·国语 全60集）",
+     "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzEyMDEzMS5odG1s"
+    },
+    {
+     "title": "伟大的长征（陌陌影视·国语 全60集）",
+     "url": "b64:aHR0cHM6Ly93d3cuc2FuZmFuaW90LmNvbS92b2RkZXRhaWwvOTg0MzcuaHRtbA=="
+    },
+    {
+     "title": "伟大的长征（星星影院·国语 全60集）",
+     "url": "b64:aHR0cHM6Ly93d3cuZ3pzYWN3LmNvbS94eGxpdWdrLzIwOTI5MS01LTEuaHRtbA=="
     }
    ]
   },
