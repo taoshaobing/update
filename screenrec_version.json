@@ -1,8 +1,8 @@
 {
- "versionCode": 2,
- "versionName": "1.1.0",
- "notes": "悬浮球改为透明玻璃质感；App 图标升级为科技风；录制时悬浮球自动隐藏不再录入画面（控制改用通知栏，可在设置里改为保留）；新增启动检查版本更新。",
- "size": 2767445,
+ "versionCode": 3,
+ "versionName": "1.2.0",
+ "notes": "打开 App 即集中引导授权；新增「录制时裁掉顶部状态栏」——成片顶部去掉状态栏那条；录制时悬浮球不再消失，而是自动移到顶部随状态栏一起被裁掉（可见可点、不进画面）；开始录制后自动退到后台，成片不出现本 App 标题栏。",
+ "size": 2780105,
  "urls": [
   "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://cdn.jsdelivr.net/gh/taoshaobing/update@main/screenrec.apk",
@@ -10,5 +10,5 @@
   "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk"
  ],
- "published": "2026-11-13 14:57"
+ "published": "2026-11-14 01:02"
 }
