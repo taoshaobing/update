@@ -4,10 +4,11 @@
  "notes": "悬浮球改为透明玻璃质感；App 图标升级为科技风；录制时悬浮球自动隐藏不再录入画面（控制改用通知栏，可在设置里改为保留）；新增启动检查版本更新。",
  "size": 2766913,
  "urls": [
+  "https://cdn.jsdelivr.net/gh/taoshaobing/update@main/screenrec.apk",
   "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://ghproxy.net/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk"
  ],
- "published": "2026-11-13 14:53"
+ "published": "2026-11-13 14:55"
 }
