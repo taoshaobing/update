@@ -1,8 +1,8 @@
 {
- "versionCode": 15,
- "versionName": "1.5.7",
- "notes": "悬浮球透明度进一步降低（球体更实、更清楚，不再透)；保留看门狗每 2 秒刷新重绘、被藏即重建；紧凑尺寸不变。",
- "size": 2787937,
+ "versionCode": 16,
+ "versionName": "1.6.0",
+ "notes": "针对",
+ "size": 2787965,
  "urls": [
   "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://cdn.jsdelivr.net/gh/taoshaobing/update@main/screenrec.apk",
@@ -10,5 +10,5 @@
   "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk"
  ],
- "published": "2026-11-14 12:48"
+ "published": "2026-11-14 13:31"
 }
