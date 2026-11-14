@@ -1,8 +1,8 @@
 {
- "versionCode": 12,
- "versionName": "1.5.4",
- "notes": "悬浮球改为超强常驻：独立看门狗每 2 秒自检，一旦被系统收走立刻重建（不限次数）；App 首页新增悬浮球实时状态显示，便于定位；设置页补充华为后台权限引导。",
- "size": 2787881,
+ "versionCode": 13,
+ "versionName": "1.5.5",
+ "notes": "悬浮球与操作条整体紧凑化：球 54→44dp、按钮 38→30dp、面板更窄，不再占太多屏幕；保留超强常驻看门狗与首页状态显示。",
+ "size": 2787941,
  "urls": [
   "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://cdn.jsdelivr.net/gh/taoshaobing/update@main/screenrec.apk",
@@ -10,5 +10,5 @@
   "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk"
  ],
- "published": "2026-11-14 12:29"
+ "published": "2026-11-14 12:39"
 }
