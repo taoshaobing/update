@@ -1,8 +1,8 @@
 {
- "versionCode": 4,
- "versionName": "1.3.0",
- "notes": "修复成片仍带顶部状态栏的问题（改用确定性离屏裁剪，必定裁掉顶部状态栏那条）；悬浮球改为贴边半隐：录制时自动收拢到最近一侧只露半个，点它才弹出完整操作条，停止后回到原位；靠近边缘松手即自动贴边。",
- "size": 2781761,
+ "versionCode": 5,
+ "versionName": "1.4.0",
+ "notes": "开启悬浮球时预先申请一次录屏授权，之后点录制不再跳转询问；开始录制时先把 App 退到后台再录，成片里不会出现本 App 界面与文件名；播放页改为沉浸式，观看时不再有系统状态栏和文件名字条；设置页新增「上次录制诊断」便于排查。",
+ "size": 2783493,
  "urls": [
   "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://cdn.jsdelivr.net/gh/taoshaobing/update@main/screenrec.apk",
@@ -10,5 +10,5 @@
   "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk"
  ],
- "published": "2026-11-14 10:25"
+ "published": "2026-11-14 10:39"
 }
