@@ -1,8 +1,8 @@
 {
- "versionCode": 8,
- "versionName": "1.5.0",
- "notes": "悬浮球改为「半圆」实心绘制：录制时球不再消失，而是把球本身画成半个圆、贴在屏幕侧边（不依赖窗口出屏，任何机型都稳），点一下半球即弹出暂停/停止操作条。",
- "size": 2785405,
+ "versionCode": 9,
+ "versionName": "1.5.1",
+ "notes": "在线更新改为并发拉取全部镜像并取版本号最大的一份，避免某个镜像旧缓存导致误判已是最新；悬浮球为半圆实心绘制，录制时贴边只露半个、点它弹出操作条。",
+ "size": 2785977,
  "urls": [
   "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://cdn.jsdelivr.net/gh/taoshaobing/update@main/screenrec.apk",
@@ -10,5 +10,5 @@
   "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk"
  ],
- "published": "2026-11-14 11:32"
+ "published": "2026-11-14 11:37"
 }
