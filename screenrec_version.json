@@ -1,8 +1,8 @@
 {
- "versionCode": 7,
- "versionName": "1.4.2",
- "notes": "修复设置页显示版本号写死的问题（现改为动态读取真实版本，以后不会再对不上）；悬浮球录制时收拢到侧边只露半个、点它弹出暂停/停止。",
- "size": 2783549,
+ "versionCode": 8,
+ "versionName": "1.5.0",
+ "notes": "悬浮球改为「半圆」实心绘制：录制时球不再消失，而是把球本身画成半个圆、贴在屏幕侧边（不依赖窗口出屏，任何机型都稳），点一下半球即弹出暂停/停止操作条。",
+ "size": 2785405,
  "urls": [
   "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://cdn.jsdelivr.net/gh/taoshaobing/update@main/screenrec.apk",
@@ -10,5 +10,5 @@
   "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk"
  ],
- "published": "2026-11-14 10:55"
+ "published": "2026-11-14 11:32"
 }
