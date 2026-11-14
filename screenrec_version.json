@@ -1,8 +1,8 @@
 {
- "versionCode": 5,
- "versionName": "1.4.0",
- "notes": "开启悬浮球时预先申请一次录屏授权，之后点录制不再跳转询问；开始录制时先把 App 退到后台再录，成片里不会出现本 App 界面与文件名；播放页改为沉浸式，观看时不再有系统状态栏和文件名字条；设置页新增「上次录制诊断」便于排查。",
- "size": 2783493,
+ "versionCode": 6,
+ "versionName": "1.4.1",
+ "notes": "修复展开操作条时悬浮球可能被摆出屏幕（看起来像消失）的问题；录制时悬浮球稳定收在屏幕侧边只露半个，点它才弹出暂停/停止等按钮，停止后回到原位。",
+ "size": 2783521,
  "urls": [
   "https://gh-proxy.com/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://cdn.jsdelivr.net/gh/taoshaobing/update@main/screenrec.apk",
@@ -10,5 +10,5 @@
   "https://ghproxy.cc/https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk",
   "https://raw.githubusercontent.com/taoshaobing/update/main/screenrec.apk"
  ],
- "published": "2026-11-14 10:39"
+ "published": "2026-11-14 10:47"
 }
