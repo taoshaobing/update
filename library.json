@@ -1,6 +1,6 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 113,
+ "version": 114,
  "generated": "2026-11-11",
  "dramas": [
   {
@@ -75,30 +75,33 @@
    ]
   },
   {
-   "name": "兰香如故",
-   "orig": "",
+   "name": "玫瑰战争",
+   "orig": "The War of Roses",
    "year": "2026",
-   "episodes": 47,
-   "genre": "国剧 / 古装 / 剧情 / 爱情",
+   "episodes": 25,
+   "genre": "港剧 / 悬疑 / 复仇",
+   "region": "其他",
    "rating": "",
-   "region": "国剧",
    "cast": [
-    "谭松韵",
-    "刘学义",
-    "牛骏峰",
-    "李梦",
-    "郑合惠子",
-    "郭柯宇"
+    "杨茜尧",
+    "陈豪",
+    "林夏薇",
+    "马国明",
+    "陈展鹏"
    ],
-   "desc": "2026 年古装宅斗剧，改编自禾晏山小说《兰香缘》，桐华、箫楼编剧。大学士府千金沈嘉兰因家族被诬谋逆、惨遭灭门，得救后顶替亡故丫鬟「许兰香」的身份潜入林府为婢，在深宅中步步为营查明沈家冤案，并与昔日未婚夫林锦岐重逢。CCTV-8 与腾讯视频同步播出，全 47 集。",
+   "desc": "TVB台庆剧。一桩富豪离奇碎尸案为开端，当红女星夏无双意外成为头号嫌疑人，实则是她为七年前坠楼身亡、被定性为自杀的闺蜜关子盈精心布下的复仇棋局。她以合拍电影为幌子，将当年参与其中的四位昔日姐妹重新聚首，借力打力挑动众人猜忌互撕。",
    "links": [
     {
-     "title": "（极速影视·国语）",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwNDgxNi5odG1s"
+     "title": "玫瑰战争（gdkebang.com）",
+     "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzEyNTA1OC5odG1s"
     },
     {
-     "title": "（策驰影院·国语）",
-     "url": "b64:aHR0cHM6Ly93d3cubm9uZ3lvdWtlamkuY29tL3ZvZGRldGFpbC8xMDEyNzUuaHRtbA=="
+     "title": "玫瑰战争（jiujusz.com）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI3NTE1Lmh0bWw="
+    },
+    {
+     "title": "玫瑰战争（jiujusz.com）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI3NTExLmh0bWw="
     }
    ]
   },
@@ -263,6 +266,35 @@
    ]
   },
   {
+   "name": "三悦有了新工作",
+   "orig": "",
+   "year": "2022",
+   "episodes": 13,
+   "genre": "剧情 / 治愈",
+   "rating": "8.0",
+   "region": "国剧",
+   "cast": [
+    "周依然",
+    "杨新鸣",
+    "鄂靖文",
+    "梁靖康",
+    "刘钧",
+    "田雷",
+    "郭柯宇"
+   ],
+   "desc": "从95后年轻人的视角出发，讲述阴差阳错来到殡仪馆担任化妆师的赵三悦（周依然 饰），从新入行时对这份职业怀抱着未知，到感悟生死、用心学习遗体化妆，并在见证往生者生前身后的过程中折射众生群像。以温暖治愈的方式呈现遗体化妆师们平凡瞬间的高光，探讨离别与人生的意义。",
+   "links": [
+    {
+     "title": "三悦有了新工作（策驰影院·国语）",
+     "url": "b64:aHR0cHM6Ly93d3cubm9uZ3lvdWtlamkuY29tL3ZvZGRldGFpbC80Nzc5Ni5odG1s"
+    },
+    {
+     "title": "三悦有了新工作（天狼影院·国语1080P）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjM0NzcuaHRtbA=="
+    }
+   ]
+  },
+  {
    "name": "凡人歌",
    "orig": "我不是废柴 / Born to be the One",
    "year": "2024",
@@ -287,6 +319,34 @@
     {
      "title": "《凡人歌》电视剧全集在线观看 - 天狼影院",
      "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC85OTczMy5odG1s"
+    }
+   ]
+  },
+  {
+   "name": "兰香如故",
+   "orig": "",
+   "year": "2026",
+   "episodes": 47,
+   "genre": "国剧 / 古装 / 剧情 / 爱情",
+   "rating": "",
+   "region": "国剧",
+   "cast": [
+    "谭松韵",
+    "刘学义",
+    "牛骏峰",
+    "李梦",
+    "郑合惠子",
+    "郭柯宇"
+   ],
+   "desc": "2026 年古装宅斗剧，改编自禾晏山小说《兰香缘》，桐华、箫楼编剧。大学士府千金沈嘉兰因家族被诬谋逆、惨遭灭门，得救后顶替亡故丫鬟「许兰香」的身份潜入林府为婢，在深宅中步步为营查明沈家冤案，并与昔日未婚夫林锦岐重逢。CCTV-8 与腾讯视频同步播出，全 47 集。",
+   "links": [
+    {
+     "title": "（极速影视·国语）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzEwNDgxNi5odG1s"
+    },
+    {
+     "title": "（策驰影院·国语）",
+     "url": "b64:aHR0cHM6Ly93d3cubm9uZ3lvdWtlamkuY29tL3ZvZGRldGFpbC8xMDEyNzUuaHRtbA=="
     }
    ]
   },
@@ -699,6 +759,55 @@
     {
      "title": "生命树（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTEwMjc5Lmh0bWw="
+    }
+   ]
+  },
+  {
+   "name": "自首真相",
+   "orig": "杀人真相",
+   "year": "2026",
+   "episodes": 35,
+   "genre": "悬疑 / 犯罪 / 刑侦",
+   "region": "国剧",
+   "rating": "",
+   "cast": [
+    "许魏洲",
+    "肖燕",
+    "郭俊辰",
+    "董璇"
+   ],
+   "desc": "以少女荒唐自首案为切口，牵出十八桩对应十八层地狱刑罚的离奇命案。刑警队长题安、心理师赵耀与法医林霜组成破案铁三角，从看似离奇的案件背后探究幽微人性，缉拿人心中的怪物。",
+   "links": [
+    {
+     "title": "自首真相（jiujusz.com）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI3NTM0Lmh0bWw="
+    }
+   ]
+  },
+  {
+   "name": "蒸蒸日上",
+   "orig": "天才捕手计划",
+   "year": "2026",
+   "episodes": 22,
+   "genre": "都市 / 生活 / 轻喜剧",
+   "region": "国剧",
+   "rating": "7.8",
+   "cast": [
+    "高叶",
+    "韩东君",
+    "王皓",
+    "张国强",
+    "侯岩松"
+   ],
+   "desc": "烟火气十足的东北某城律师街上，为人侠气、幽默的女律师萧龙女在大众浴池楼上开了一家草根律所。她曾因一起案件中的正义之举从高端律所离职，与青梅竹马的同事李信决裂，却在市井之中为普通百姓守护公道，诠释小人物的法律纠纷与人间百态。",
+   "links": [
+    {
+     "title": "蒸蒸日上（gdkebang.com）",
+     "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzEyMDE2OC5odG1s"
+    },
+    {
+     "title": "蒸蒸日上（jiujusz.com）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTIwNTEwLmh0bWw="
     }
    ]
   },
@@ -2032,6 +2141,37 @@
    ]
   },
   {
+   "name": "金童",
+   "orig": "",
+   "year": "2026",
+   "episodes": 1,
+   "genre": "港片 / 剧情",
+   "rating": "",
+   "region": "港片",
+   "cast": [
+    "张继聪",
+    "曾志伟",
+    "韦罗莎",
+    "林雪",
+    "朱栢康"
+   ],
+   "desc": "2026 年香港剧情片，张继聪、曾志伟、韦罗莎、林雪、朱栢康主演。（本条为粤语原声版，均经 m3u8 分片实测可播）",
+   "links": [
+    {
+     "title": "（极速影视·粤语）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzk3OTUyLmh0bWw="
+    },
+    {
+     "title": "（酷客影院·粤语）",
+     "url": "b64:aHR0cHM6Ly93d3cuemp5b25nYW8uY29tL3ZvZGRldGFpbC8xMjM3NjQuaHRtbA=="
+    },
+    {
+     "title": "（策驰影院·粤语）",
+     "url": "b64:aHR0cHM6Ly93d3cubm9uZ3lvdWtlamkuY29tL3ZvZGRldGFpbC85ODg5MS5odG1s"
+    }
+   ]
+  },
+  {
    "name": "绝命毒师",
    "orig": "Breaking Bad",
    "year": "2008",
@@ -2243,115 +2383,6 @@
     {
      "title": "苦尽柑来遇见你（天狼影院）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNTkyMDYuaHRtbA=="
-    }
-   ]
-  },
-  {
-   "name": "三悦有了新工作",
-   "orig": "",
-   "year": "2022",
-   "episodes": 13,
-   "genre": "剧情 / 治愈",
-   "rating": "8.0",
-   "region": "国剧",
-   "cast": [
-    "周依然",
-    "杨新鸣",
-    "鄂靖文",
-    "梁靖康",
-    "刘钧",
-    "田雷",
-    "郭柯宇"
-   ],
-   "desc": "从95后年轻人的视角出发，讲述阴差阳错来到殡仪馆担任化妆师的赵三悦（周依然 饰），从新入行时对这份职业怀抱着未知，到感悟生死、用心学习遗体化妆，并在见证往生者生前身后的过程中折射众生群像。以温暖治愈的方式呈现遗体化妆师们平凡瞬间的高光，探讨离别与人生的意义。",
-   "links": [
-    {
-     "title": "三悦有了新工作（策驰影院·国语）",
-     "url": "b64:aHR0cHM6Ly93d3cubm9uZ3lvdWtlamkuY29tL3ZvZGRldGFpbC80Nzc5Ni5odG1s"
-    },
-    {
-     "title": "三悦有了新工作（天狼影院·国语1080P）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjM0NzcuaHRtbA=="
-    }
-   ]
-  },
-  {
-   "name": "自首真相",
-   "orig": "杀人真相",
-   "year": "2026",
-   "episodes": 35,
-   "genre": "悬疑 / 犯罪 / 刑侦",
-   "region": "国剧",
-   "rating": "",
-   "cast": [
-    "许魏洲",
-    "肖燕",
-    "郭俊辰",
-    "董璇"
-   ],
-   "desc": "以少女荒唐自首案为切口，牵出十八桩对应十八层地狱刑罚的离奇命案。刑警队长题安、心理师赵耀与法医林霜组成破案铁三角，从看似离奇的案件背后探究幽微人性，缉拿人心中的怪物。",
-   "links": [
-    {
-     "title": "自首真相（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI3NTM0Lmh0bWw="
-    }
-   ]
-  },
-  {
-   "name": "蒸蒸日上",
-   "orig": "天才捕手计划",
-   "year": "2026",
-   "episodes": 22,
-   "genre": "都市 / 生活 / 轻喜剧",
-   "region": "国剧",
-   "rating": "7.8",
-   "cast": [
-    "高叶",
-    "韩东君",
-    "王皓",
-    "张国强",
-    "侯岩松"
-   ],
-   "desc": "烟火气十足的东北某城律师街上，为人侠气、幽默的女律师萧龙女在大众浴池楼上开了一家草根律所。她曾因一起案件中的正义之举从高端律所离职，与青梅竹马的同事李信决裂，却在市井之中为普通百姓守护公道，诠释小人物的法律纠纷与人间百态。",
-   "links": [
-    {
-     "title": "蒸蒸日上（gdkebang.com）",
-     "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzEyMDE2OC5odG1s"
-    },
-    {
-     "title": "蒸蒸日上（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTIwNTEwLmh0bWw="
-    }
-   ]
-  },
-  {
-   "name": "玫瑰战争",
-   "orig": "The War of Roses",
-   "year": "2026",
-   "episodes": 25,
-   "genre": "港剧 / 悬疑 / 复仇",
-   "region": "其他",
-   "rating": "",
-   "cast": [
-    "杨茜尧",
-    "陈豪",
-    "林夏薇",
-    "马国明",
-    "陈展鹏"
-   ],
-   "desc": "TVB台庆剧。一桩富豪离奇碎尸案为开端，当红女星夏无双意外成为头号嫌疑人，实则是她为七年前坠楼身亡、被定性为自杀的闺蜜关子盈精心布下的复仇棋局。她以合拍电影为幌子，将当年参与其中的四位昔日姐妹重新聚首，借力打力挑动众人猜忌互撕。",
-   "links": [
-    {
-     "title": "玫瑰战争（gdkebang.com）",
-     "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzEyNTA1OC5odG1s"
-    },
-    {
-     "title": "玫瑰战争（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI3NTE1Lmh0bWw="
-    },
-    {
-     "title": "玫瑰战争（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI3NTExLmh0bWw="
     }
    ]
   }
