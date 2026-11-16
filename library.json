@@ -1,6 +1,6 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 118,
+ "version": 119,
  "generated": "2026-11-11",
  "dramas": [
   {
@@ -1609,7 +1609,12 @@
     "松重丰"
    ],
    "desc": "《孤独的美食家》第七季（2018年）：杂货商井之头五郎在跑业务的间隙，独自走进街边小馆，认真地吃一顿饭。没有剧情，只有食物与放松，看完总是很饿。全 12 集。",
-   "links": []
+   "links": [
+    {
+     "title": "（天狼影院·原链接保留）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjIzNC5odG1s"
+    }
+   ]
   },
   {
    "name": "轮到你了",
@@ -1678,7 +1683,12 @@
     "市川实日子"
    ],
    "desc": "28岁的大岛凪因过度在意他人眼光而\"阅读空气\"窒息，辞职后搬到乡下开启自我重生的新生活。慢节奏治愈系佳作。",
-   "links": []
+   "links": [
+    {
+     "title": "（天狼影院·原链接保留）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMjE3MTguaHRtbA=="
+    }
+   ]
   },
   {
    "name": "东京大饭店",
