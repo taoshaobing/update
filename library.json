@@ -1,6 +1,6 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 115,
+ "version": 116,
  "generated": "2026-11-11",
  "dramas": [
   {
@@ -2144,16 +2144,24 @@
    "desc": "2026 年香港剧情片，张继聪、曾志伟、韦罗莎、林雪、朱栢康主演。（本条为粤语原声版，均经 m3u8 分片实测可播）",
    "links": [
     {
-     "title": "（极速影视·粤语）",
-     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzk3OTUyLmh0bWw="
+     "title": "（策驰影院·粤语）",
+     "url": "b64:aHR0cHM6Ly93d3cubm9uZ3lvdWtlamkuY29tL3ZvZGRldGFpbC85ODg5MS5odG1s"
     },
     {
      "title": "（酷客影院·粤语）",
      "url": "b64:aHR0cHM6Ly93d3cuemp5b25nYW8uY29tL3ZvZGRldGFpbC8xMjM3NjQuaHRtbA=="
     },
     {
-     "title": "（策驰影院·粤语）",
-     "url": "b64:aHR0cHM6Ly93d3cubm9uZ3lvdWtlamkuY29tL3ZvZGRldGFpbC85ODg5MS5odG1s"
+     "title": "（火鸟影视·粤语）",
+     "url": "b64:aHR0cHM6Ly93d3cuaGZkemRtLmNvbS92b2RkZXRhaWwvMTEzNDA3Lmh0bWw="
+    },
+    {
+     "title": "（天狼影院·粤语）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTEyNzI4Lmh0bWw="
+    },
+    {
+     "title": "（极速影视·粤语）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzk3OTUyLmh0bWw="
     }
    ]
   },
