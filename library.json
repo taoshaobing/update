@@ -1,6 +1,6 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 114,
+ "version": 115,
  "generated": "2026-11-11",
  "dramas": [
   {
@@ -914,29 +914,15 @@
    "orig": "耳をすませば / Whisper of the Heart",
    "year": "1995",
    "episodes": 1,
-   "genre": "动画 / 爱情 / 青春",
+   "genre": "日剧 / 动画 / 爱情",
    "rating": "8.9",
-   "region": "日剧",
-   "cast": [
-    "本名阳子",
-    "小林桂树",
-    "高山南",
-    "高桥一生",
-    "山下容莉枝"
-   ],
-   "desc": "宫崎骏编剧、近藤喜文执导的吉卜力经典动画（1995）。初三女孩月岛雯酷爱读书，总在借书卡上看到同一个名字\"天泽圣司\"，对他充满好奇。雯喜欢写诗，在图书馆与圣司相遇相知，两人互相勉励、各自为理想奋斗——圣司立志成为小提琴工匠，雯决心写出自己的小说。以细腻笔触描绘青春期懵懂的爱恋与追梦的勇气，久石让配乐。",
+   "region": "其他",
+   "cast": [],
+   "desc": "1995 年吉卜力工作室动画电影（导演：近藤喜文 / 编剧：宫崎骏），原作柊葵漫画。爱看书的初中生月岛雯，在借书卡上反复看到一个名字——天泽圣司，由此展开一段关于梦想与初恋的故事。（注：本条目为 1995 动画；各免费资源站暂未收录粤语/国语配音版，收录为日语原声中字）",
    "links": [
     {
-     "title": "侧耳倾听（gdkebang.com）",
+     "title": "（大猫影院·日语原声）",
      "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzQwMDUzLmh0bWw="
-    },
-    {
-     "title": "侧耳倾听（gdkebang.com）",
-     "url": "b64:aHR0cHM6Ly9nZGtlYmFuZy5jb20vdm9kZGV0YWlsLzM4ODg4Lmh0bWw="
-    },
-    {
-     "title": "侧耳倾听（jiujusz.com）",
-     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvOTgyNDAuaHRtbA=="
     }
    ]
   },
