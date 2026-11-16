@@ -1,6 +1,6 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 121,
+ "version": 122,
  "generated": "2026-11-17 00:08:44",
  "dramas": [
   {
@@ -1234,7 +1234,20 @@
     "小池荣子"
    ],
    "desc": "毒舌又贪财的律师古美门研介与理想主义新人律师黛真知子组成搭档，在法庭上\"为赢不择手段\"，用一场场荒诞官司拆解正义与真相。台词犀利的三观交锋神剧。",
-   "links": []
+   "links": [
+    {
+     "title": "（天狼影院）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMzkyMjkuaHRtbA=="
+    },
+    {
+     "title": "（酷客影院）",
+     "url": "b64:aHR0cHM6Ly96anlvbmdhby5jb20vdm9kZGV0YWlsLzEwNzAxLmh0bWw="
+    },
+    {
+     "title": "（酷客影院）",
+     "url": "b64:aHR0cHM6Ly96anlvbmdhby5jb20vdm9kZGV0YWlsLzEwNjcyLmh0bWw="
+    }
+   ]
   },
   {
    "name": "孤独的美食家",
@@ -1947,7 +1960,20 @@
     "笨蛋节奏(编剧)"
    ],
    "desc": "单亲妈妈在富士山脚下的小镇酒店上班，发现新来的同事竟是外星人。用科幻脑洞温柔解决日常琐碎难题，2025年度口碑黑马治愈剧。",
-   "links": []
+   "links": [
+    {
+     "title": "（天狼影院）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNjE4MDUuaHRtbA=="
+    },
+    {
+     "title": "（天狼影院）",
+     "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvNTU3ODcuaHRtbA=="
+    },
+    {
+     "title": "（极速影视）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzg0NTE3Lmh0bWw="
+    }
+   ]
   },
   {
    "name": "宛如阿修罗",
