@@ -1,7 +1,7 @@
 {
  "title": "烧饼刷剧-内置剧库",
- "version": 126,
- "generated": "2026-11-17 00:08:44",
+ "version": 128,
+ "generated": "2026-11-21 14:50:19",
  "dramas": [
   {
    "name": "我们的留学生活——在日本的日子",
@@ -2525,6 +2525,33 @@
     {
      "title": "多喜一家人（jiujusz.com）",
      "url": "b64:aHR0cHM6Ly9qaXVqdXN6LmNvbS92b2RkZXRhaWwvMTI4MTA0Lmh0bWw="
+    }
+   ]
+  },
+  {
+   "name": "四喜",
+   "orig": "",
+   "year": "2025",
+   "episodes": 36,
+   "genre": "国产剧 / 家庭 / 都市",
+   "rating": "",
+   "region": "国剧",
+   "cast": [
+    "童瑶",
+    "蒋欣",
+    "黄明昊",
+    "许娣",
+    "林晓杰"
+   ],
+   "desc": "家庭幸福、爱情甜蜜的明珠刚领证、怀孕，丈夫建奇就因见义勇为去世。明珠在众说纷纭中自己拿定主意，决定生下孩子，却遇见来寻亲的亲生父母一家。明珠在心有戚戚的亲情中走出伤痛，但公公意外猝死暴露了婆家的资不抵债。明珠挺身而出，厘清债务、承包单位，把家人们拧成一股绳，重新昂扬生活。",
+   "links": [
+    {
+     "title": "《四喜》电视剧免费在线观看全集高清_天狼影院（国语·36集）",
+     "url": "b64:aHR0cHM6Ly9tLmppdWp1c3ouY29tL3ZvZGRldGFpbC8yODY5Lmh0bWw="
+    },
+    {
+     "title": "《四喜》全集手机在线免费观看国语高清完整版_极速影视（国语·36集）",
+     "url": "b64:aHR0cHM6Ly9qaWViYW5nOC5jb20vdm9kZGV0YWlsLzMyMDMuaHRtbA=="
     }
    ]
   }
